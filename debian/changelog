@@ -1,0 +1,7 @@
+ros-hydro-open-karto (1.1.0-0precise) precise; urgency=high
+
+  * Release as a pure catkin ROS package
+
+ -- Michael Ferguson <fergs@unboundedrobotics.com>  Sun, 15 Jun 2014 07:00:00 -0000
+
+
