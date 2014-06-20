@@ -1,13 +1,11 @@
 <?xml version="1.0"?>
 <package>
   <name>open_karto</name>
-  <version>1.0.1</version>
-  <description>Release-package for OpenKarto</description>
+  <version>1.1.0</version>
+  <description>Catkinized ROS packaging of the OpenKarto library</description>
 
-  <maintainer email="swirth@willowgarage.com">Stephan Wirth</maintainer>
+  <maintainer email="fergs@unboundedrobotics.com">Michael Ferguson</maintainer>
   <license>LGPLv3</license>
 
-  <run_depend>catkin</run_depend>
   <buildtool_depend>catkin</buildtool_depend>
-
 </package>
