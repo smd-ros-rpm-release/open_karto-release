@@ -37,7 +37,7 @@ tracks:
     release_tag: :{version}
     ros_distro: hydro
     vcs_type: git
-    vcs_uri: https://github.com/stwirth/open_karto.git
+    vcs_uri: https://github.com/ros-perception/open_karto.git
     version: :{auto}
   indigo:
     actions:
